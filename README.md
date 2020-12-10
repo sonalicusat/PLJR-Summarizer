@@ -47,7 +47,7 @@ Now that the server’s running, visit http://127.0.0.1:8000/ with your Web brow
 ***Download the codes of this repository or colon it.***
 
 # Copy folders
-Copy static and template folder inside the Sumaarizer folder you have created. Replace settings.py, views.py and urls.py which will be in Summarizer folder of Summarizer folder. 
+Copy static and template folder inside the Summarizer folder you have created. Replace settings.py, views.py and urls.py which will be in Summarizer folder of Summarizer folder. 
 
 ***Now you are raedy to go, you can stop the pervious server by Ctrl + C***
 
